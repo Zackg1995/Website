@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+		
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width">
+		<title>Default Website Design | About</title>
+		<link rel="stylesheet" href="./css/css.css">
+		
+	</head>
+
+	<body>
+		
+		<header>
+		
+			<div class="container">
+			
+				<div id="branding">
+				<h1><span class="highlight">Website</span> Default Design</h1>
+				</div>
+				
+				<nav>
+					<ul>
+						<li ><a href="index.html">Home</a></li>
+						<li class = "current"><a href="about.html">About Us</a></li>
+						<li><a href="contact.html">Contact</a></li>
+					</ul>
+				</nav>
+			
+			</div>
+		
+		</header>
+		
+	
+		
+		<section id="newsletter">
+			<div class="container">
+				<h1> Subscribe to Newsletter</h1>
+				<form>
+					<input type="email" placeholder="Enter E-mail">
+					<button type="submit" class ="button_1">Subscribe</button>
+				</form>
+			</div>
+		</section>
+		
+		<section id="main">
+			<div class="container">
+				<article id="main-col">
+				
+				<h1 class ="page-title">About us</h1>
+				
+				<p>
+				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur turpis risus, lacinia viverra nisi ut, euismod hendrerit justo. Donec at porttitor felis. Sed cursus tempor erat non tempus. Donec vel neque orci. Fusce tempor lacinia massa non dapibus. Nam commodo porta elit, non cursus metus mattis eget. Nullam vel posuere arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut tristique efficitur tempus.</p>
+
+		<p>Nunc maximus sapien et odio accumsan consequat. Donec vulputate mollis nisi non sollicitudin. Curabitur non porta eros. Donec iaculis dignissim sodales. Nulla eget iaculis sapien. Suspendisse tempus tellus id scelerisque convallis. Aenean sit amet lacus vitae arcu bibendum sodales. Etiam sit amet blandit nunc. Etiam malesuada vestibulum ligula, ut interdum libero placerat sit amet. Aliquam non quam nulla. Maecenas quis risus nec neque luctus varius a sed mi. Integer placerat quam faucibus, elementum ipsum ut, rutrum mi. Etiam blandit nisi sed lorem maximus efficitur. Donec sed hendrerit orci, nec blandit justo. Phasellus molestie blandit elementum. Nulla sollicitudin turpis ut neque tempor, at venenatis risus luctus.</p>
+				
+				</article>
+				
+				<aside id="sidebar">
+				<div class="dark">
+				<h3>What we do</h3>
+				<p>  Fusce tempor lacinia massa non dapibus. Nam commodo porta elit, non cursus metus mattis eget. Nullam vel posuere arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut tristique efficitur tempus.</p>
+				</div>
+				</aside>
+				
+			</div>
+		</section>
+		
+		<footer>
+		
+			<p> Default website </p>
+		
+		</footer>
+		
+	</body>
+
+</html>
